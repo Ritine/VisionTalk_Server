@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+SpeechRecognition
+gTTS
+torch
+torchvision
+transformers
+qwen-vl-utils
+Pillow

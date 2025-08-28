@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Data files (uploaded content and generated outputs)
+data/audios/
+data/frames/
+static/outputs/
+
+# Media files (generated outputs)
+*.mp3
+*.wav
+*.m4a
+*.jpg
+*.jpeg
+*.png
+
+# Model files (if any)
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
